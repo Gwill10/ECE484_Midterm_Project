@@ -1,5 +1,5 @@
 # ECE484_Midterm_Project
-In this repository, there are two different C files named blink_dashes and display_name. These files can be uploaded to an Arduino Uno using an AVR compiler to control an LCD that has an I2C chip connected. I have listed the commands below to upload the C files to an Arduino board, but the COM port might need to be changed depending on the Arduino. 
+In this repository, there are two different C files named blink_dashes and display_name. These files can be uploaded to an Arduino Uno using an AVR compiler to control a 16x2 LCD that has an I2C chip connected. I have listed the commands below to upload the C files to an Arduino board, but the COM port might need to be changed depending on the Arduino. To change what is displayed on the LCD in the blink-dashes program, you need to edit what is inside the parathesis on the fourth line down of the main function. To change what is displayed on the LCD in the display_name program, you need to edit inside the parathesis on the fifth line down of the main function.
 
 # Commands to upload to board:
 
